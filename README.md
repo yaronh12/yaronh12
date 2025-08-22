@@ -1,9 +1,7 @@
 ## Hi there, I'm Yaron 👋
 
 ⛑️ Software Engineer Intern at Red Hat <br/>
-💻 Wraping up my B.Sc in Computer Science <br/>
-🧠 Love to write clean code and solve problems
-
+💻 Wrapping up my B.Sc in Computer Science <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaronhod) 
