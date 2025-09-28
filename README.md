@@ -1,4 +1,4 @@
-## Hi there, I'm Yaron 👋
+## About Me
 
 ⛑️ Software Engineer Intern at Red Hat <br/>
 💻 Wrapping up my B.Sc in Computer Science <br/>
