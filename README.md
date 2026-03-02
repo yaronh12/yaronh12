@@ -1,7 +1,7 @@
 ## About Me
 
 ⛑️ Software Engineer Intern at Red Hat <br/>
-💻 Wrapping up my B.Sc in Computer Science <br/>
+💻 B.Sc in Computer Science <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaronhod) 
